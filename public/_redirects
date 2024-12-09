@@ -266,7 +266,7 @@
 /d1/build-with-d1/use-indexes/ /d1/best-practices/use-indexes/ 301
 /d1/build-with-d1/remote-development/ /d1/best-practices/remote-development/ 301
 /d1/build-with-d1/local-development/ /d1/best-practices/local-development/ 301
-/d1/build-with-d1/foreign-keys/ /d1/best-practices/foreign-keys/ 301
+/d1/build-with-d1/foreign-keys/ /d1/sql-api/foreign-keys/ 301
 /d1/build-with-d1/query-json/ /d1/sql-api/query-json/ 301
 /d1/build-with-d1/use-d1-from-pages/ /d1/best-practices/use-d1-from-pages/ 301
 /d1/learning/using-d1-from-pages/ /pages/functions/bindings/#d1-databases 301

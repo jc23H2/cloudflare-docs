@@ -1,0 +1,10 @@
+---
+link: "/fundamentals/changelog/"
+productName: Cloudflare Fundamentals
+productLink: "/fundamentals/"
+productArea: Core platform
+productAreaLink: /fundamentals/reference/changelog/platform/
+entries:
+  - publish_date: "2024-XX-XX"
+    title:
+    description: |-

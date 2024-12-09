@@ -5,6 +5,19 @@ productLink: "/fundamentals/"
 productArea: Core platform
 productAreaLink: /fundamentals/reference/changelog/platform/
 entries:
-  - publish_date: "2024-XX-XX"
-    title:
+  - publish_date: "2024-12-06"
+    title: SCIM self-serve
     description: |-
+      Enterprise customers using Okta or Microsoft Entra can now provision access to the Cloudflare dashboard with SCIM. Refer to the [SCIM setup documentation](fundamentals/setup/account/account-security/scim-setup/) for more details.
+  - publish_date: "2024-09-26"
+    title: Account Owned Tokens
+    description: |-
+      Customers can now create API Tokens that are owned by their account. Refer to the [Account Owned Tokens documentation](/fundamentals/api/get-started/account-owned-tokens/) or the [blog post]( https://blog.cloudflare.com/account-owned-tokens-automated-actions-zaraz/) for more details.
+  - publish_date: "2024-09-24"
+    title: Terraform v5 SDK Preview
+    description: |-
+      Terraform v5 SDK is now available as a preview. Refer to the [blog post] (https://blog.cloudflare.com/automatically-generating-cloudflares-terraform-provider/) or the [Terraform documentation](https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs/guides/version-5-upgrade) for more details. 
+  - publish_date: "2024-09-24"
+    title: API Documentation preview page
+    description: |-
+      Customers can now preview the new API documentation page. Refer to the [blog post](https://blog.cloudflare.com/automatically-generating-cloudflares-terraform-provider/) for more details.
